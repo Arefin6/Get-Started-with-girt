@@ -1,1 +1,1 @@
-# Get-Started-with-girt
+# Get-Started-with-git
